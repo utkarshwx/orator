@@ -123,7 +123,7 @@ const premiumf = () => {
                     </svg>
                   </div>
                   <h2 class="text-white text-lg title-font font-medium">
-                  Quick Support
+                  Beta Access
                   </h2>
                 </div>
                 

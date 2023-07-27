@@ -2,7 +2,7 @@ import React from "react";
 import classNames from "classnames";
 import toast, { Toaster } from "react-hot-toast";
 import { MdOutlineClose } from "react-icons/md";
-import { HiLightningBolt } from "react-icons/hi";
+import { BiError } from "react-icons/bi";
 
 import styles from "../App.module.css";
 
@@ -16,7 +16,7 @@ const notify = () =>
         ])}
       >
         <div className="text-xl">
-          <HiLightningBolt />
+        <BiError/>
         </div>
         <div className="text-lg mr-36">
           <h1>Login to buy premium</h1>

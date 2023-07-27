@@ -5,8 +5,9 @@ import { MdWorkspacePremium, MdClose, MdMenu } from "react-icons/md";
 import logo from "../images/oratorlogo.png";
 
 const navigation = [
-  { name: 'Home', href: '/en', current: true },
+  { name: 'Home', href: '/en', current: false },
   { name: 'Team', href: '/en/team', current: false },
+  { name: 'Faq', href: '/en/faq', current: false },
   { name: 'Support', href: 'https://discord.gg/dc2kVDAzQr', current: false },
 ]
 

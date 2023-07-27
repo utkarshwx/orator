@@ -13,10 +13,10 @@ const pricing = () => {
             
             <p className="lg:w-2/3 mx-auto mb-4 mt-3 text-white leading-relaxed text-xl">
               Discover affordability and value in our transparent pricing model
-              designed to meet your needs
+              designed to meet your needs.
             </p>
             <h6 className="mb-5 text-base">
-              Satisfaction guaranteed - familiarize yourself with our transparent <a href="/en/refundpolicy"> <u className="text-cs-blue ease-out duration-150 hover:duration-150 hover:text-white">refund policy</u></a> for a worry-free experience.
+              Satisfaction guaranteed - familiarize yourself with our transparent <a href="/en/refundpolicy"> <u className="text-cs-blue ease-out duration-150 hover:duration-150 hover:text-white">refund policy</u></a> and 1 hour trial on our support <a href="https://discord.gg/dc2kVDAzQr"> <u className="text-cs-blue ease-out duration-150 hover:duration-150 hover:text-white">server</u></a>.
             </h6>
 
           </div>
@@ -27,7 +27,7 @@ const pricing = () => {
                   Free
                 </h1>
                 <h2 className="text-sm tracking-widest text-gray-400 title-font mb-1 font-medium border-b border-gray-800">
-                  missing those premium features
+                  missing premium features
                 </h2>  
                 
                 
@@ -51,17 +51,7 @@ const pricing = () => {
                 
                 <button className="flex items-center mt-auto text-white bg-cs-blue border-0 py-2 px-4 w-full focus:outline-none hover:bg-blue-600 rounded">
                   Avail Now
-                  <svg
-                    fill="none"
-                    stroke="currentColor"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
-                    className="w-4 h-4 ml-auto"
-                    viewBox="0 0 24 24"
-                  >
-                    <path d="M5 12h14M12 5l7 7-7 7"></path>
-                  </svg>
+                  
                 </button>
               </div>
             </div>
@@ -81,17 +71,7 @@ const pricing = () => {
                 </h2>                
                 <button className="flex items-center mt-auto text-white bg-cs-blue border-0 py-2 px-4 w-full focus:outline-none hover:bg-blue-600 rounded">
                   Avail Now
-                  <svg
-                    fill="none"
-                    stroke="currentColor"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
-                    className="w-4 h-4 ml-auto"
-                    viewBox="0 0 24 24"
-                  >
-                    <path d="M5 12h14M12 5l7 7-7 7"></path>
-                  </svg>
+                  
                 </button>
               </div>
             </div>
@@ -109,17 +89,7 @@ const pricing = () => {
                 
                 <button className="flex items-center mt-auto text-white bg-cs-blue border-0 py-2 px-4 w-full focus:outline-none hover:bg-blue-600 rounded">
                   Avail Now
-                  <svg
-                    fill="none"
-                    stroke="currentColor"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
-                    className="w-4 h-4 ml-auto"
-                    viewBox="0 0 24 24"
-                  >
-                    <path d="M5 12h14M12 5l7 7-7 7"></path>
-                  </svg>
+                  
                 </button>
               </div>
             </div>
