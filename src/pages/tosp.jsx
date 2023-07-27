@@ -3,13 +3,11 @@ import Header from "../components/header.jsx";
 import Footer from "../components/footer.jsx";
 import TOS from "../components/tos.jsx";
 import Curve2 from "../components/curve2.jsx";
-import Bots from "../components/bots.jsx";
 
 const tosp = () => {
   return (
     <div>
         <Header/>
-        <Bots/>
         <TOS/>
         <Curve2/>
         <Footer/>

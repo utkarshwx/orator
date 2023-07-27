@@ -13,7 +13,7 @@ const tos = () => {
               <h6 className="mb-7 text-xl">
               Stay informed and empowered: acquaint yourself with our Terms of Service to ensure a smooth and secure journey
               </h6>
-              <p class="faq-answer-text text-gray-400">
+              <p className="faq-answer-text text-gray-400">
               ● Owner and Lead Developer has the right to blacklist you from the bot without notifying any information.<br/><br/>
               ● We use some third party services in our products, if you break terms of them, you may get banned from the bot too.<br/><br/>
               ● Servers Breaking Discord's ToS can also get banned. Though every cases aren't same and we may consider some of them.<br/><br/>

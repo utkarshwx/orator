@@ -13,7 +13,7 @@ const refund = () => {
               <h6 className="mb-7 text-xl">
               Satisfaction guaranteed - familiarize yourself with our transparent refund policy for a <b className="text-cs-blue">worry-free experience.</b>
               </h6>
-              <p class="faq-answer-text text-gray-400">
+              <p className="faq-answer-text text-gray-400">
               ● No successful payments would be refunded if you claim the Premium Subscription in your Server.<br/><br/>
               ● If you buy premium in a wrong server, you may ask for transfer of Premium to another server, but can't get refund.<br/><br/>
               ● If your server gets blacklisted, the premium available in that server won't be refunded, but under certain circumstances we may transfer premium to another server of a part of the time remaining in the current premium to expire.<br/><br/>
