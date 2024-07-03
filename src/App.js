@@ -17,16 +17,16 @@ function App() {
     <>
       <BrowserRouter>
        <Routes>
-          <Route path="/en" element={<Homepage title="home"/>}/> 
-          <Route path="/en/pricing" element={<Pricing title="pricing"/>}/> 
-          <Route path="/en/team" element={<Team title="team"/>}/> 
-          <Route path="/en/faq" element={<Faq title="faq"/>}/>
-          <Route path="/en/errorpage" element={<Errorpage title="404 error"/>}/>
-          <Route path="/en/termsofservice" element={<Tos title="tos"/>}/> 
-          <Route path="/en/refundpolicy" element={<Refund title="refund"/>}/> 
-          <Route path="/en/privacypolicy" element={<Privacy title="privacy"/>}/>
-          <Route path="/en/premium/servers" element={<Serverprem title="serverprem"/>}/>
-          <Route path="/en/dashboard" element={<Dashboard title="dashboard"/>}/>  
+          <Route path="/" element={<Homepage title="home"/>}/> 
+          <Route path="/pricing" element={<Pricing title="pricing"/>}/> 
+          <Route path="/team" element={<Team title="team"/>}/> 
+          <Route path="/faq" element={<Faq title="faq"/>}/>
+          <Route path="/errorpage" element={<Errorpage title="404 error"/>}/>
+          <Route path="/termsofservice" element={<Tos title="tos"/>}/> 
+          <Route path="/refundpolicy" element={<Refund title="refund"/>}/> 
+          <Route path="/privacypolicy" element={<Privacy title="privacy"/>}/>
+          <Route path="/premium/servers" element={<Serverprem title="serverprem"/>}/>
+          <Route path="/dashboard" element={<Dashboard title="dashboard"/>}/>  
        </Routes>
        
       </BrowserRouter>
