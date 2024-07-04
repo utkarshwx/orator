@@ -60,7 +60,7 @@ const footer = () => {
           <div className="container px-5 py-6 mx-auto flex items-center justify-center sm:flex-row flex-col">
             
             <p className="text-sm text-gray-400 sm:ml-6 sm:mt-0 mt-0">
-            Copyright ©️ 2022 - 2023 Orator.
+            Copyright ©️ 2022 - 2024 Orator | Made with 🧡 by WEBX
               
             </p>
             
